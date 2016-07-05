@@ -13,8 +13,7 @@ File myFile;
 int length;
 char a, b;
 char phrase[1000];
-bool flag = 1;
-bool latch = 1;
+
 int z = 0;
 
 int fontDefinitions[480] = {
