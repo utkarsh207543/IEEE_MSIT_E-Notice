@@ -1,2 +1,3 @@
-# IEEE_MSIT_E-Notice
+# IEEE MSIT 
 E-Notice Board
+     -Utkarsh Kumar Singh
